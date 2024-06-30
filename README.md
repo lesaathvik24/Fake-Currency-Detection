@@ -21,7 +21,8 @@ If TensorFlow is not already installed in your Python environment, you can insta
 pip install tensorflow\
 Make sure to run this command in the same terminal or command prompt window where you're planning to run your script.\
 Run app.py:\
-Once you're in the directory containing app.py and TensorFlow is installed, you can run the script using the python command followed by the name of the script file. For example:
+Once you're in the directory containing app.py and TensorFlow is installed, you can run the script using the python command followed by the name of the script file. 
+For example:
 python app.py
 Once Reload website when it is still loading after executing.
 
