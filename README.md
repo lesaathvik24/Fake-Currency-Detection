@@ -1,4 +1,3 @@
-
 # Fake Currency Detection
 Open Command Prompt/Terminal or IDE:
 Open the command prompt (Windows) or terminal (macOS/Linux) on your computer. You can usually find it in your system's applications menu or by searching for "Command Prompt" (Windows) or "Terminal" (macOS/Linux).
