@@ -1,1 +1,1 @@
-Latest image uploaded by the user is saved here.
+Input image is saved here
