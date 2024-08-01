@@ -8,7 +8,6 @@ Navigate to the Directory Containing app.py:
 Use the cd command (change directory) to navigate to the directory where your app.py file is located.\
 cd path/to/directory \
 Replace path/to/directory with the actual path to the directory containing your app.py file.
-
 Activate Virtual Environment (Optional):
 If you're using a virtual environment for your project, activate it using the appropriate command.\
 source venv/bin/activate  # macOS/Linux\
